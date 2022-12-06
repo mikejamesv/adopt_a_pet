@@ -8,7 +8,11 @@ The project uses Python's Flask framework specifically routes and templates to h
 To run the app please complete the following steps:
 
 Download the code by using git clone
+
 cd into the folder and type python -m venv venv
-activate the venv with source venv/bin/activate or venvironment\Scripts\activate
+
+activate the venv with source through Scripts\activate
+
 install all the necessary requirements with pip install -r requirements.txt
-LASTLY type flask run to start your local server on port 5000# adopt_a_pet
+
+LASTLY type flask run to start your local server on port 5000#
